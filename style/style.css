@@ -2,6 +2,11 @@ body {
     font-family: 'Lato', sans-serif;
 
     font-family: 'Poppins', sans-serif;
+    border: 1px solid azure;
+    box-shadow: 0 0 50px rgb(155, 145, 145);
+    margin: 20px;
+    padding: 10px;
+
 }
 
 /* header style */
@@ -115,4 +120,27 @@ button {
 
 p {
     color: black;
+}
+
+.lasts {
+    background-color: black;
+
+}
+
+.goal {
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.sesh span {
+    position: relative;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 50px;
+}
+
+.last {
+    padding-bottom: 100px;
+    padding-top: 100px;
 }
